@@ -198,6 +198,17 @@ cython_debug/
 #  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
+
+# macOS
+.DS_Store
+
+# Analysis outputs and local datasets
+retina_scRNA_TH1_TH2/data/raw/
+retina_scRNA_TH1_TH2/data/interim/
+retina_scRNA_TH1_TH2/data/processed/
+retina_scRNA_TH1_TH2/results/
+retina_scRNA_TH1_TH2/logs/
+retina_scRNA_TH1_TH2/reports/
 .cursorignore
 .cursorindexingignore
 
