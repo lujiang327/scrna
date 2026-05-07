@@ -203,6 +203,7 @@ cython_debug/
 .DS_Store
 
 # Analysis outputs and local datasets
+retina_scRNA_TH1_TH2/.venv/
 retina_scRNA_TH1_TH2/data/raw/
 retina_scRNA_TH1_TH2/data/interim/
 retina_scRNA_TH1_TH2/data/processed/
