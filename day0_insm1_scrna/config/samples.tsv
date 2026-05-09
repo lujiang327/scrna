@@ -1,0 +1,3 @@
+sample_id	day	genotype	condition	feature_matrix_h5
+TH1	Day0	Chx10Cre	Control	/Users/louis/Desktop/lab/code/r_demo/Sample_15585-TH-1/filtered_feature_bc_matrix.h5
+TH2	Day0	Chx10Cre_Insm1_KO	Insm1_KO	/Users/louis/Desktop/lab/code/r_demo/Sample_15585-TH-2/filtered_feature_bc_matrix.h5

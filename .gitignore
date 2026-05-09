@@ -210,6 +210,13 @@ retina_scRNA_TH1_TH2/data/processed/
 retina_scRNA_TH1_TH2/results/
 retina_scRNA_TH1_TH2/logs/
 retina_scRNA_TH1_TH2/reports/
+
+day0_insm1_scrna/.venv/
+day0_insm1_scrna/data/interim/
+day0_insm1_scrna/data/processed/
+day0_insm1_scrna/results/
+day0_insm1_scrna/logs/
+day0_insm1_scrna/reports/
 .cursorignore
 .cursorindexingignore
 
